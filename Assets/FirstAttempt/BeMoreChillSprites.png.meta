@@ -1,0 +1,1759 @@
+fileFormatVersion: 2
+guid: ab9b27ed6e9414843964c16f89a1903f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 421343791813953415
+    second: Michael_Soda
+  - first:
+      213: -6214988837017360925
+    second: BeMoreChillSprites_1
+  - first:
+      213: -9048144888421766755
+    second: BeMoreChillSprites_2
+  - first:
+      213: -4039392679515084350
+    second: BeMoreChillSprites_3
+  - first:
+      213: -1708539491903129091
+    second: BeMoreChillSprites_4
+  - first:
+      213: -3546909534922607968
+    second: BeMoreChillSprites_5
+  - first:
+      213: -2909791670423500186
+    second: BeMoreChillSprites_6
+  - first:
+      213: 8598616705663909033
+    second: BeMoreChillSprites_7
+  - first:
+      213: -8603706043479926530
+    second: BeMoreChillSprites_8
+  - first:
+      213: 3892915419823785827
+    second: BeMoreChillSprites_9
+  - first:
+      213: -3696311842863914384
+    second: BeMoreChillSprites_10
+  - first:
+      213: -732057349222620797
+    second: BeMoreChillSprites_11
+  - first:
+      213: -655184143170976043
+    second: BeMoreChillSprites_12
+  - first:
+      213: -6145484689189384556
+    second: BeMoreChillSprites_13
+  - first:
+      213: -5166531384799453334
+    second: BeMoreChillSprites_14
+  - first:
+      213: -2395870397044821429
+    second: BeMoreChillSprites_15
+  - first:
+      213: 8782617272193392876
+    second: BeMoreChillSprites_16
+  - first:
+      213: -3384223119472828277
+    second: BeMoreChillSprites_17
+  - first:
+      213: 3922388279079361831
+    second: BeMoreChillSprites_18
+  - first:
+      213: -8525738123534849412
+    second: BeMoreChillSprites_19
+  - first:
+      213: 1506749564838405103
+    second: BeMoreChillSprites_20
+  - first:
+      213: -1611506842102471786
+    second: BeMoreChillSprites_21
+  - first:
+      213: 1754397684378850598
+    second: BeMoreChillSprites_22
+  - first:
+      213: 8961120336078867785
+    second: BeMoreChillSprites_23
+  - first:
+      213: 26640254538246367
+    second: BeMoreChillSprites_24
+  - first:
+      213: -1102343236498076403
+    second: BeMoreChillSprites_25
+  - first:
+      213: -6169815950238582223
+    second: BeMoreChillSprites_26
+  - first:
+      213: 4862618565528924971
+    second: BeMoreChillSprites_27
+  - first:
+      213: 4533987030714007496
+    second: BeMoreChillSprites_28
+  - first:
+      213: -7212275249979574934
+    second: BeMoreChillSprites_29
+  - first:
+      213: 6507555798329882185
+    second: BeMoreChillSprites_30
+  - first:
+      213: -1201864202011094197
+    second: BeMoreChillSprites_31
+  - first:
+      213: 7985365099504304134
+    second: BeMoreChillSprites_32
+  - first:
+      213: 7116142629422151999
+    second: BeMoreChillSprites_33
+  - first:
+      213: 5648322438687238163
+    second: BeMoreChillSprites_34
+  - first:
+      213: 950557965065592786
+    second: BeMoreChillSprites_35
+  - first:
+      213: 8274958000889838385
+    second: BeMoreChillSprites_36
+  - first:
+      213: 4029824763305245345
+    second: BeMoreChillSprites_37
+  - first:
+      213: -5515050635900594053
+    second: BeMoreChillSprites_38
+  - first:
+      213: 8202044993102885570
+    second: BeMoreChillSprites_39
+  - first:
+      213: 4984304261441592438
+    second: BeMoreChillSprites_40
+  - first:
+      213: -8290369486199598378
+    second: BeMoreChillSprites_41
+  - first:
+      213: 3823286080030988645
+    second: BeMoreChillSprites_42
+  - first:
+      213: -7681538091029042801
+    second: BeMoreChillSprites_43
+  - first:
+      213: -8071242188380238622
+    second: BeMoreChillSprites_44
+  - first:
+      213: 5545936875202034209
+    second: BeMoreChillSprites_45
+  - first:
+      213: -6491877380681275451
+    second: BeMoreChillSprites_46
+  - first:
+      213: 4034403838399788934
+    second: BeMoreChillSprites_47
+  - first:
+      213: -6120161663983844589
+    second: BeMoreChillSprites_48
+  - first:
+      213: -5298403366657411548
+    second: BeMoreChillSprites_49
+  - first:
+      213: -4685352938915092249
+    second: BeMoreChillSprites_50
+  - first:
+      213: -306013421562672176
+    second: BeMoreChillSprites_51
+  - first:
+      213: 4007606572693000635
+    second: BeMoreChillSprites_52
+  - first:
+      213: -2433606131448997629
+    second: Blank1
+  - first:
+      213: -5772348404907351870
+    second: BeMoreChillSprites_54
+  - first:
+      213: -5134367463730789464
+    second: BeMoreChillSprites_55
+  - first:
+      213: -7261283128603505542
+    second: BeMoreChillSprites_56
+  - first:
+      213: 5316421526949150349
+    second: BeMoreChillSprites_57
+  - first:
+      213: 8231162964906586618
+    second: BeMoreChillSprites_58
+  - first:
+      213: 3118169986250858628
+    second: Blank
+  - first:
+      213: -7187697230818546701
+    second: BeMoreChillSprites_60
+  - first:
+      213: 2948547653770813663
+    second: BeMoreChillSprites_61
+  - first:
+      213: -4459973878983834080
+    second: BeMoreChillSprites_62
+  - first:
+      213: -5090448365214037942
+    second: BeMoreChillSprites_63
+  - first:
+      213: 3771156776684178823
+    second: BeMoreChillSprites_64
+  - first:
+      213: -4011578141823424597
+    second: BeMoreChillSprites_65
+  - first:
+      213: 6285357891490672031
+    second: BeMoreChillSprites_66
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Michael_Soda
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1048
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdc26c1a7f0dae4d9e3dd6e43d9f76b
+      internalID: 421343791813953415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1048
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c661ac10204316458b46fb89d7b1e2b
+      internalID: -6214988837017360925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1048
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e05544004fdfd847a1c27a0726f7381
+      internalID: -9048144888421766755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1048
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bef7c193804be14d9e74f7154b4765d
+      internalID: -4039392679515084350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1048
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c01b70a22fbe6545b65cc8b64a55506
+      internalID: -1708539491903129091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1048
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85daae558ed8bc9449cdc1b1064f112d
+      internalID: -3546909534922607968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1048
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be62adef5ffd2e45996d078359d90e0
+      internalID: -2909791670423500186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1048
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3def571488f5a6c43b295a589271e70a
+      internalID: 8598616705663909033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1048
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065636dcdef8cbd419343d15f3f6f05f
+      internalID: -8603706043479926530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1016
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcf209edc9e4a94e8c4e9a8df459616
+      internalID: 3892915419823785827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1016
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ba5b8470899c942b1b90d85b958921
+      internalID: -3696311842863914384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1016
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b404e1fc4bde09f49825ffe4b187177f
+      internalID: -732057349222620797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1016
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd156b6bda37d704186d061c4986d1c2
+      internalID: -655184143170976043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1016
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ac33e8b0ac4fe459ef72b2225cdc4f
+      internalID: -6145484689189384556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1016
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af55a38b242f1114baa34dedaff9dcf7
+      internalID: -5166531384799453334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1016
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d2248889e958747ada0f60836f1306
+      internalID: -2395870397044821429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1016
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cc54aab9ac02346920daa0ec9cae6b
+      internalID: 8782617272193392876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1016
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729039b17f351994180e23d4c83ec041
+      internalID: -3384223119472828277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1016
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06ef3dc94f27294f85d749e79e11a10
+      internalID: 3922388279079361831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 985
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832360f8c37e4774496cf481c50bfb69
+      internalID: -8525738123534849412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 984
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d63d673f1eb1b448040fc0cce040bf
+      internalID: 1506749564838405103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 984
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f97867befce68448da26b2d01abfdf
+      internalID: -1611506842102471786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 984
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f36ac8f108709044b799464fcacf3e5
+      internalID: 1754397684378850598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 984
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c958c8e94cfbcf647827cd9c5ebf47c5
+      internalID: 8961120336078867785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 990
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8814517fa4fc6764e91341bccd0657ef
+      internalID: 26640254538246367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 984
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4467e346f6fb93140b65336544ac5043
+      internalID: -1102343236498076403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_26
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 984
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70622f6813249b94f8a3ed7b257b75ea
+      internalID: -6169815950238582223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 984
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25b78618158da34b9af4eb329abed15
+      internalID: 4862618565528924971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 952
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702b98d174885984198825cf6c884dc9
+      internalID: 4533987030714007496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 964
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d800ca4e730099a46b8d87a2f7e5f3df
+      internalID: -7212275249979574934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 968
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4941c8a032aee44ba8fdaac8ad2cd29
+      internalID: 6507555798329882185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 962
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30a3942c18875f41899a04f69dd2152
+      internalID: -1201864202011094197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 804
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16053c03ed9745c4baa64eb068870290
+      internalID: 7985365099504304134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2680f26cb128c514491c569cc01433c3
+      internalID: 7116142629422151999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 920
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7506c056bff41b34790c92ca8160e42f
+      internalID: 5648322438687238163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 920
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7151b191e0aca48b9472b8e5260acd
+      internalID: 950557965065592786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 920
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0badfe6e529c54f4182ed69632e18512
+      internalID: 8274958000889838385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 920
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade7092e733f2af44a647309447b6be5
+      internalID: 4029824763305245345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 920
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64978c8effa417c498b1e6ad51e0a2ba
+      internalID: -5515050635900594053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 920
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ad1a7194fd8904893c0264fbc75453
+      internalID: 8202044993102885570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 920
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff59aa6fa9add0243bc4f44d965884ca
+      internalID: 4984304261441592438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 920
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7f640c8ea0982458179f1c24adb3b8
+      internalID: -8290369486199598378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_42
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 920
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59330a74ac8067448403d750f866063
+      internalID: 3823286080030988645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_43
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 921
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e56c75135adc084096cf97c2bb6a3e9
+      internalID: -7681538091029042801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 920
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560b37d50843f3641a3d2e093a4d9324
+      internalID: -8071242188380238622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54da824f075bec3478e8f757bce5e611
+      internalID: 5545936875202034209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 888
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56bbc114da81e94a99d1d6cc21a1dd2
+      internalID: -6491877380681275451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 888
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225cb03d72c63ef44b6e6d24ebb8a8a4
+      internalID: 4034403838399788934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_48
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 888
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fa0e29b55488442b464838e80f65c6
+      internalID: -6120161663983844589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_49
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 888
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047adae41a62e2246aeb8003a20f5185
+      internalID: -5298403366657411548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_50
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 888
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c2165577fc69b4991ae0684ea70367
+      internalID: -4685352938915092249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 888
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f1ee6349860714ea922d85c44a1dd9
+      internalID: -306013421562672176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_52
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 888
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca94fb981d82f943aa76201b2b83657
+      internalID: 4007606572693000635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blank1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 803
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86b03ba9c6e992489dc4053390effce
+      internalID: -2433606131448997629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 888
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b52e6307485b145a06cdc163707e6d
+      internalID: -5772348404907351870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 888
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b98c38f5e483d64ab1e87332caa59ae
+      internalID: -5134367463730789464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29f10ef26a99404e8822ac2c359def5
+      internalID: -7261283128603505542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_57
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 856
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24659108735e98644bf8fee5c1be42af
+      internalID: 5316421526949150349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_58
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 856
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a6a80644a31cb48b53d316e68ac79d
+      internalID: 8231162964906586618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blank
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 803
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8f7fb847eeb1d4ca12bcf0551f064d
+      internalID: 3118169986250858628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_60
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 856
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529be33056f870b4690a7832c3ddf5c8
+      internalID: -7187697230818546701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_61
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 856
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5f79fde4c98c940b19d34355195ed8
+      internalID: 2948547653770813663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_62
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 803
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25a5a083901fa44b96e9492d8db6cc
+      internalID: -4459973878983834080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_63
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fbff82384d0114e975e76526a65fa9
+      internalID: -5090448365214037942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_64
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de3f9bdea6d65347aae6e0a9c13f5c9
+      internalID: 3771156776684178823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_65
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 803
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a31c821f324cf245bc0285e03d8f381
+      internalID: -4011578141823424597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeMoreChillSprites_66
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 803
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae104c6fbc1d9b14a88c4e378b2d195c
+      internalID: 6285357891490672031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
